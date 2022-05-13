@@ -1,0 +1,10 @@
+{
+  "login_page": {
+      "title": "Vui lòng đăng nhập trước khi sử dụng IMoney",
+      "text": "Nhập mật khẩu và password"
+  },
+  "home_page": {
+      "title": "Chào mừng bạn đến với vũ trụ của tôi",
+      "text": "Anh yêu em ở mọi vũ trụ"
+  }
+}

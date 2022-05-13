@@ -1,0 +1,10 @@
+{
+  "login_page": {
+      "title": "Please login before using IMoney",
+      "text": "Enter your email and password"
+  },
+  "home_page": {
+      "title": "Welcome to my Universe",
+      "text": "I love you in every universe"
+  }
+}
